@@ -1,0 +1,7 @@
+Inicializar applicación de node/
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+npm init
+
+Realizar más de una instalación al mismo tiempo/
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+npm install --save yargs colors
