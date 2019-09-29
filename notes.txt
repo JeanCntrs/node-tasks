@@ -1,7 +1,10 @@
-Inicializar applicación de node/
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
-npm init
+Tag/
+´´´
+git tag -a v1.0.0 -m 'First Version' 
 
-Realizar más de una instalación al mismo tiempo/
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
-npm install --save yargs colors
+Generalmente la gente usa esta funcionalidad para marcar puntos donde se ha lanzado alguna versión. 
+Git nos brinda una sencilla forma de poner una marca ó etiqueta permanente en un commit específico, 
+lo usaremos generalmente para especificar un hito o suceso relevante en nuestro proyecto. 
+Si tenemos nuestro proyecto tageado, podremos volver fácilmente a ese momento en el proyecto, 
+o comparar ese tag con algún momento en el proyecto.
+
